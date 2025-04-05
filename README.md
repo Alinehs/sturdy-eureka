@@ -1,1 +1,1 @@
-# sturdy-eureka
+# sturdy
